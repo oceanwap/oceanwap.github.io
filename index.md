@@ -16,7 +16,7 @@ I’m passionate about creating systems that don’t just work — but scale wel
 ## ⚙️ Core Skills & Tools
 - **Languages & Frameworks:** PHP, Laravel, Node.js, TypeScript, NestJS, Express, Python, Flask, FastAPI
 - **Databases:** MySQL, PostgreSQL, Redis, MongoDB
-- **Architecture Patterns:** Modular Monolith, Event-Driven, Message Queues (SQS, Beanstalkd, Redis Queue)
+- **Architecture Patterns:** Modular Monolith, Micro Services, Event-Driven, Message Queues (SQS, Beanstalkd, Redis Queue)
 - **DevOps & Infra:** GitHub Actions, Docker, Ubuntu Server, CI/CD pipelines
 - **Tools & Monitoring:** Supervisor, Cron, Redis Caching, NewRelic, Crashlytics, Google Analytics, Mixpanel, Appsflyer, Raygun, Site24x7
 - **Cloud Concepts:** Scalable systems, caching strategies, containerization, API integrations
