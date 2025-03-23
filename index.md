@@ -13,7 +13,7 @@ I’m passionate about creating systems that don’t just work — but scale wel
 
 ---
 
-## Core Skills & Tools
+## ⚙️ Core Skills & Tools
 - **Languages & Frameworks:** PHP (Laravel), Node.js, TypeScript, Python (Flask), NestJS, Express
 - **Databases:** MySQL, PostgreSQL, Redis, MongoDB
 - **Architecture Patterns:** Modular Monolith, Event-Driven, Message Queues (SQS, Beanstalkd, Redis Queue)
@@ -31,7 +31,7 @@ I’m passionate about creating systems that don’t just work — but scale wel
 - Developed a 2-way-sync backend system for offline-first mobile & web apps.
 - Integrated LLM inference pipelines for AI-augmented backend features.
 
-## 🔹 Work Experience
+## 🧑🏻‍💻 Work Experience
 
 ### Software Engineer – WebBee GmbH (Remote)
 _Dec 2021 – Jan 2025 | Mumbai, India_
@@ -101,7 +101,7 @@ _Jun 2014 – Mar 2015 | Gurugram, India_
 
 ---
 
-## 🔹 Education
+## 📚 Education
 
 - **Master of Computer Science**, University of Allahabad – 2014
 - **Bachelor of Mathematics & Computer Science**, University of Allahabad – 2012
