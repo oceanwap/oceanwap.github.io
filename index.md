@@ -31,7 +31,9 @@ I’m passionate about creating systems that don’t just work — but scale wel
 - Developed a 2-way-sync backend system for offline-first mobile & web apps.
 - Integrated LLM inference pipelines for AI-augmented backend features.
 
-## 🧑🏻‍💻 Work Experience
+---
+
+## __🧑🏻‍💻 Work Experience__
 
 ### Software Engineer – WebBee GmbH (Remote)
 _Dec 2021 – Jan 2025 | Mumbai, India_
@@ -57,7 +59,8 @@ _Dec 2021 – Jan 2025 | Mumbai, India_
 - Developed guided inference flows and AI-assisted backend components converting natural language to system actions and visuals
 
 **Tech Stack:** Python, PyTorch, Transformers, Lora
----
+
+----
 
 ### Product Manager – ZEE5 Global
 _Sep 2017 – Nov 2021 | Mumbai, India_
