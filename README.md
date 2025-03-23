@@ -1,6 +1,6 @@
 
 # Roshan Kumar
-**Email:** [roshank1024@gmail.com](mailto:roshank1024@gmail.com)  |  **Phone:** [+91 96549 23070](tel:919654923070)
+**Email:** [roshank1024@gmail.com](mailto:roshank1024@gmail.com)  |  **Phone:** [+919654923070](tel:919654923070)
 
 ---
 
