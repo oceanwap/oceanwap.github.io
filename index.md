@@ -7,7 +7,7 @@
 ---
 
 ## Profile Summary
-I’m a backend-focused Principal Engineer with 10+ years of experience building high-performance, reliable, and scalable systems across fintech, SaaS, and foodtech domains. I specialize in system design, modular and micro-services driven architectures, event-driven workflows, and production-grade engineering using PHP, Node.js, Typescript, Socket, Redis, Mysql/PostgreSQL and CI/CD pipelines.
+I’m a backend-focused Lead Engineer with 10+ years of experience building high-performance, reliable, and scalable systems across fintech, SaaS, and foodtech domains. I specialize in system design, modular and micro-services driven architectures, event-driven workflows, and production-grade engineering using PHP, Node.js, Typescript, Socket, Redis, Mysql/PostgreSQL and CI/CD pipelines.
 
 I’m passionate about creating systems that don’t just work — but scale well, age gracefully, and make engineering teams faster. Lately, I’ve been exploring the intersection of backend development and AI — building prompt-driven features, LLM-powered automation, and semantic search systems.
 
