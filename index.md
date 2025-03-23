@@ -35,7 +35,7 @@ I’m passionate about creating systems that don’t just work — but scale wel
 
 ### Software Engineer – WebBee GmbH (Remote)
 _Dec 2021 – Jan 2025 | Mumbai, India_
-##### Butlerapp - Appointment Booking Platform
+#### Butlerapp - Appointment Booking Platform
 - Redesigned and scaled a booking platform for 3000+ daily active merchants.
 - Created event based communication triggers improving end customer lifecycle management - contributed toward 10% increase in sales
 - Implemented intelligent scheduling workflows reducing system load by 60%
@@ -45,14 +45,14 @@ _Dec 2021 – Jan 2025 | Mumbai, India_
 
 **Tech Stack:** PHP (Laravel), MySQL, Redis, Supervisor, Cron, Nodejs
 
-##### Taylor DB - An Intelligent Database Application
+#### Taylor DB - An Intelligent Database Application
 - Designed backend architecture for multi-app creation and data-driven workflows
 - Implemented local-syncing database for offline access - reducing load on backend upto 90%
 - Integrated GraphQL, Socket.io, and CI/CD pipelines
 
 **Tech Stack:** Nestjs, TypeScript, TypeOrm, PostgreSQL, Redis, GraphQL, Socket.IO, REST, CI/CD
 
-##### LLM Training & Inference
+#### LLM Training & Inference
 - Trained and deployed lightweight LLM pipelines for structured prompt-to-action interfaces.
 - Developed guided inference flows and AI-assisted backend components converting natural language to system actions and visuals
 
