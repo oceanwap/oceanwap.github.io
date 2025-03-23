@@ -27,8 +27,8 @@ I’m passionate about creating systems that don’t just work — but scale wel
 - Architected a modular, scalable booking system serving 3000+ merchants making millions of transactions monthly.
 - Redesigned the system to reduce system load by 70% and making API response 3x faster.
 - Delivered asynchronous invoicing, discount engines, and auto-scheduling logic.
-- Created a payment system from scratch to handle 100K transactions daily.
-- Built a 2-way-sync backend system for offline-first mobile & web apps.
+- Designed a payment system to handle 50K+ transactions daily.
+- Developed a 2-way-sync backend system for offline-first mobile & web apps.
 - Integrated LLM inference pipelines for AI-augmented backend features.
 
 ## 🔹 Work Experience
@@ -37,12 +37,11 @@ I’m passionate about creating systems that don’t just work — but scale wel
 _Dec 2021 – Jan 2025 | Mumbai, India_
 ### [Butlerapp](https://butlerapp.de) Appointment Booking Platform
 - Redesigned and scaled a booking platform for 3000+ daily active merchants.
-- Built event based communication triggers improving end customer lifecycle management - contributed toward 10% increase in sales
+- Created event based communication triggers improving end customer lifecycle management - contributed toward 10% increase in sales
 - Implemented intelligent scheduling workflows reducing system load by 60%
 - Optimized booking APIs reducing response time by 70% (3 times faster)
-- Implemented discount engine with both code-based & coupon-less flows - enabling businesses to run campaigns
+- Enhanced the system with a discount engine with both code-based & coupon-less flows - enabling businesses to run campaigns
 - Built recurring invoicing system reducing manual operations cost by 10x
-- Managed Ubuntu servers and improved system throughput by 2 times
 **Tech Stack:** PHP (Laravel), MySQL, Redis, Supervisor, Cron, Nodejs
 
 ### [Taylor Db](https://taylordb.ai/) An Intelligent Database Application
@@ -60,7 +59,7 @@ _Dec 2021 – Jan 2025 | Mumbai, India_
 ### Product Manager – ZEE5 Global
 _Sep 2017 – Nov 2021 | Mumbai, India_
 - Launched ZEE5 across 190+ countries with regional content personalization.
-- Launched ZEE5 in USA with student discounting and referral systems
+- Increased reach with student discounting and referral systems in USA. 
 - Integrated multilingual interfaces, wallet payments, and smart subscription flows.
 - Partnered with Telco/Wallet payments - added 80% MoM revenue in Bangladesh, Pakistan, UAE, Qatar, and Sri Lanka.
 - Improved subscription funnel by 60% in low-card-use countries
@@ -75,10 +74,10 @@ _Aug 2015 – Sep 2017 | Delhi, India_
 - Built a high-performance payment system from scratch
     - 1000+ of merchants like Nigerian consulates were using it for daily settlements and transactions
     - Reached peak 50K+ transactions daily
-- Supported online cards, UPI, Net Banking, and POS device integrations
+- Equipped our customers with cards, UPI, Net Banking, and POS device to accept payments
 - Developed a fast merchant dashboard for payments, refunds, settlement
 - Integrated UPI with ICICI/IndusInd banks directly
-- Integrarted NACH for automatic settlements to merchants for operational scalabilty.
+- Scaled operations with NACH payments for automatic daily settlements to 1000+ merchants.
 - Created frontend interface using MithrilJS (load < 50KB)
 - Optimized APIs by 40% with async task handling
 **Tech Stack:** Laravel, PHP, MithrilJS, Redis, PostgreSQL, CI/CD
@@ -87,7 +86,7 @@ _Aug 2015 – Sep 2017 | Delhi, India_
 
 ### Full-Stack Engineer – TinyOwl
 _Apr 2015 – Aug 2015 | Mumbai, India_
-- Learned new technologies - ROR (Ruby On Rails) and BackboneJs
+- Learnt new technologies - ROR (Ruby On Rails) and BackboneJs
 - Built order management module (BackboneJS + ROR)
 - Migrated backend to microservices for better scalability
 **Tech Stack:** BackboneJS, Ruby on Rails
@@ -99,14 +98,6 @@ _Jun 2014 – Mar 2015 | Gurugram, India_
 - Built co-branded restaurant sites & partner integrations
 - Developed KPI reporting automation tools for internal/partner use
 **Tech Stack:** Laravel, PHP, Mysql 
-
----
-
-### Freelance Developer
-_Nov 2012 – May 2014_
-- Built Jabrakoo.com (video platform – Joomla)
-- AmalinaTunaPhotography.my (photoblog – WordPress)
-- WisdenIndia.com (cricket blog – WordPress)
 
 ---
 
