@@ -1,7 +1,7 @@
 
 # Roshan Kumar
 
-**Principal Backend Engineer | System Design | Scalable Architecture | Redis • PHP • Node.js • CI/CD • AI-Ready Engineering**  
+**Lead Backend Engineer | System Design | Scalable Architecture | Redis • PHP • Node.js • CI/CD • AI-Ready Engineering**  
 **Email:** [roshank1024@gmail.com](mailto:roshank1024@gmail.com)  |  **Phone:** [+91 96549 23070](tel:919654923070) | 🌐 https://oceanwap.github.io
 
 ---
