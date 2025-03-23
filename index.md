@@ -1,13 +1,15 @@
 
 # Roshan Kumar
-**Email:** [roshank1024@gmail.com](mailto:roshank1024@gmail.com)  |  **Phone:** [+91 96549 23070](tel:919654923070)
+
+**Principal Backend Engineer | System Design | Scalable Architecture | Redis • PHP • Node.js • CI/CD • AI-Ready Engineering**  
+**Email:** [roshank1024@gmail.com](mailto:roshank1024@gmail.com)  |  **Phone:** [+91 96549 23070](tel:919654923070) | 🌐 https://oceanwap.github.io
 
 ---
 
 ## Profile Summary
-Principal Backend Engineer with 10+ years of experience designing, building, and scaling high-performance, distributed systems across Fintech, OTT, and SaaS domains. Specialized in modular monoliths, event-driven architecture, and system design. Proven expertise in delivering resilient, production-grade systems using PHP (Laravel), Node.js/TypeScript, Redis, PostgreSQL, and CI/CD pipelines.
+I’m a backend-focused Principal Engineer with 10+ years of experience building high-performance, reliable, and scalable systems across fintech, SaaS, and OTT domains. I specialize in system design, modular and micro-services architectures, event-driven workflows, and production-grade engineering using PHP, Node.js, Redis, Mysql/PostgreSQL and CI/CD pipelines.
 
-Hands-on experience integrating Large Language Models (LLMs), prompt engineering, and building AI-augmented features using GPT-based inference pipelines. Strong track record in system ownership, mentoring, and product-aligned engineering. Currently exploring AI-enhanced backend patterns and architectural scaling strategies.
+I’m passionate about creating systems that don’t just work — but scale well, age gracefully, and make engineering teams faster. Lately, I’ve been exploring the intersection of backend development and AI — building prompt-driven features, LLM-powered automation, and semantic search systems.
 
 ---
 
@@ -21,49 +23,49 @@ Hands-on experience integrating Large Language Models (LLMs), prompt engineering
 
 ---
 
-## Highlighted Projects
-
-### [Butlerapp](https://butlerapp.de) Appointment Booking Platform
-Scalable booking platform serving 3000+ merchants daily. Built event triggers, invoicing systems, discounting engines, and resource-optimized scheduling algorithms. Delivered high-throughput backend architecture and CI/CD pipelines with Redis-based caching and load-balancing.
-
-### [Taylor Db](https://taylordb.ai/) An Intelligent Database Application -
-Architected a scalable backend to host multiple data-driven apps. Built a local sync database system for offline-first apps and GraphQL interfaces for modular CRUD systems.
-
-##### LLM Integration & Prompt Engineering
-As part of Tayler DB project, I trained and deployed lightweight LLM pipelines for structured prompt-to-action interfaces. Developed guided inference flows and AI-assisted backend components.
+## 🚀 Key Highlights
+- Architected a modular, scalable booking system serving 3000+ merchants making millions of transactions monthly.
+- Redesigned the system to reduce system load by 70% and making API response 3x faster.
+- Delivered asynchronous invoicing, discount engines, and auto-scheduling logic.
+- Created a payment system from scratch to handle 100K transactions daily.
+- Built a 2-way-sync backend system for offline-first mobile & web apps.
+- Integrated LLM inference pipelines for AI-augmented backend features.
 
 ## 🔹 Work Experience
 
 ### Software Engineer – WebBee GmbH (Remote)
 _Dec 2021 – Jan 2025 | Mumbai, India_
-**Butler App – Generic Booking System**
-- Developed features for customer engagement & merchant sales optimization
-- Built event based communication triggers to help an easy and improved customer lifecycle management - approx 10% increase in sale of subscriptions.
-- Implemented a auto-scalable system for backend jobs process - reducing system load by 60%
-- Optimizing API response - reducing response time by 80% (300x faster)
+### [Butlerapp](https://butlerapp.de) Appointment Booking Platform
+- Redesigned and scaled a booking platform for 3000+ daily active merchants.
+- Built event based communication triggers improving end customer lifecycle management - contributed toward 10% increase in sales
+- Implemented intelligent scheduling workflows reducing system load by 60%
+- Optimized booking APIs reducing response time by 70% (3 times faster)
 - Implemented discount engine with both code-based & coupon-less flows - enabling businesses to run campaigns
-- Built recurring invoicing system and optimized bookings for 3000+ merchants
-- Managed Ubuntu servers and improved system throughput
+- Built recurring invoicing system reducing manual operations cost by 10x
+- Managed Ubuntu servers and improved system throughput by 2 times
+**Tech Stack:** PHP (Laravel), MySQL, Redis, Supervisor, Cron, Nodejs
 
-**No-Code Application Builder (In Development)**
+### [Taylor Db](https://taylordb.ai/) An Intelligent Database Application
 - Designed backend architecture for multi-app creation and data-driven workflows
-- Implemented local-syncing database for offline access
+- Implemented local-syncing database for offline access - reducing load on backend upto 90%
 - Integrated GraphQL, Socket.io, and CI/CD pipelines
+**Tech Stack:** Nestjs, TypeScript, TypeOrm, PostgreSQL, Redis, GraphQL, Socket.IO, REST, CI/CD
 
 **LLM Training & Inference**
-- Trained lightweight LLMs and created pipelines for prompt engineering
-- Developed guided inference systems converting natural language to system actions
-
+- Trained and deployed lightweight LLM pipelines for structured prompt-to-action interfaces.
+- Developed guided inference flows and AI-assisted backend components converting natural language to system actions and visuals
+**Tech Stack:** Python, PyTorch, Transformers, Lora
 ---
 
 ### Product Manager – ZEE5 Global
 _Sep 2017 – Nov 2021 | Mumbai, India_
-- Played a key role in ZEE5’s launch in 190+ countries
+- Launched ZEE5 across 190+ countries with regional content personalization.
 - Launched ZEE5 in USA with student discounting and referral systems
+- Integrated multilingual interfaces, wallet payments, and smart subscription flows.
 - Partnered with Telco/Wallet payments - added 80% MoM revenue in Bangladesh, Pakistan, UAE, Qatar, and Sri Lanka.
 - Improved subscription funnel by 60% in low-card-use countries
 - Reduced 20% MoM revenue loss via payment optimization & fraud prevention
-- Led GDPR/CCPA compliance initiatives for international markets
+- Led GDPR/CCPA compliance efforts and improved retention funnels by 60%.
 - Managed mobile/web platform feature planning & sprint management
 
 ---
@@ -79,6 +81,7 @@ _Aug 2015 – Sep 2017 | Delhi, India_
 - Integrarted NACH for automatic settlements to merchants for operational scalabilty.
 - Created frontend interface using MithrilJS (load < 50KB)
 - Optimized APIs by 40% with async task handling
+**Tech Stack:** Laravel, PHP, MithrilJS, Redis, PostgreSQL, CI/CD
 
 ---
 
@@ -87,6 +90,7 @@ _Apr 2015 – Aug 2015 | Mumbai, India_
 - Learned new technologies - ROR (Ruby On Rails) and BackboneJs
 - Built order management module (BackboneJS + ROR)
 - Migrated backend to microservices for better scalability
+**Tech Stack:** BackboneJS, Ruby on Rails
 
 ---
 
@@ -94,6 +98,7 @@ _Apr 2015 – Aug 2015 | Mumbai, India_
 _Jun 2014 – Mar 2015 | Gurugram, India_
 - Built co-branded restaurant sites & partner integrations
 - Developed KPI reporting automation tools for internal/partner use
+**Tech Stack:** Laravel, PHP, Mysql 
 
 ---
 
