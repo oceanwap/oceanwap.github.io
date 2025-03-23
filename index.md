@@ -14,7 +14,7 @@ I’m passionate about creating systems that don’t just work — but scale wel
 ---
 
 ## ⚙️ Core Skills & Tools
-- **Languages & Frameworks:** PHP (Laravel), Node.js, TypeScript, Python (Flask), NestJS, Express
+- **Languages & Frameworks:** PHP, Laravel, Node.js, TypeScript, NestJS, Express, Python, Flask, FastAPI
 - **Databases:** MySQL, PostgreSQL, Redis, MongoDB
 - **Architecture Patterns:** Modular Monolith, Event-Driven, Message Queues (SQS, Beanstalkd, Redis Queue)
 - **DevOps & Infra:** GitHub Actions, Docker, Ubuntu Server, CI/CD pipelines
