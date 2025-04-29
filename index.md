@@ -35,7 +35,7 @@ I’m passionate about creating systems that don’t just work — but scale wel
 
 ## __🧑🏻‍💻 Work Experience__
 
-### Software Engineer – WebBee GmbH (Remote)
+### Senior Software Engineer – WebBee GmbH (Remote)
 _Dec 2021 – Jan 2025 | Mumbai, India_
 - #### Butlerapp - Appointment Booking Platform
     - Redesigned and scaled a booking platform for 3000+ daily active merchants.
